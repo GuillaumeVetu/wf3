@@ -7,8 +7,9 @@
 	<?php
 		$nom = 'Tong';
 		$prenom = 'Tin';
+		$age = '30 ans';
 		
-		echo "Bondour " . $prenom . " " . $nom;
+		echo "Bondour " . $prenom . " " . $nom . " " . $age;
 	?>
 	</body>
 </html>
