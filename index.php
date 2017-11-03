@@ -20,11 +20,11 @@
 		echo "<br/>";
 
 		if ($age >= 18) {
-			echo "Majeur";
+			echo "Majeur et vacciné";
 		} elseif ($age >= 15) {
-			echo "Ado";
+			echo "Ado en crise";
 		} else {
-			echo "Enfant";
+			echo "Enfant à claquer dans le mur";
 		}
 		echo "<br/>";
 	?>
