@@ -5,7 +5,10 @@
 	</head>
 	<body>
 	<?php
-		echo "Bonjour il est un script PHP! Vraiment, je ment pas, je vous jure. Antho pense que je suis réptilien au passage. Il se trompe... Ou pas."
+		$nom = 'Tong';
+		$prenom = 'Tin';
+		
+		echo "Bondour " . $prenom . " " . $nom;
 	?>
 	</body>
 </html>
